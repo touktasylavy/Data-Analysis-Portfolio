@@ -21,5 +21,9 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 ---
 
 ## Projects
-- [PostgreSQL + Excel Analysis](./Project-Postgres-Excel)  
+- [PostgreSQL + Excel Analysis](./Project-Postgres-Excel)
+  │   ├── README.md            
+│   ├── report.pdf
+│   ├── queries.sql
+│   ├── pivot-charts.xlsx
 *(More projects coming soon!)*
