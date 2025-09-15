@@ -12,11 +12,11 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 
 ---
 
-## Interests
-- Market Research & HRIS data analysis  
+## Interests  
 - Business insights through analytics  
 - Building dashboards & visualizations  
-- Data engineering & workflow optimization  
+- Data engineering & workflow optimization
+- Market Research & HRIS data analysis  
 
 ---
 
