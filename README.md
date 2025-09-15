@@ -21,5 +21,6 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 ---
 
 ## Projects
-- [PostgreSQL + Excel Analysis](./Project-Postgres-Excel)
+### PostgreSQL Projects
+- **UrbanMart E-commerce Performance – PostgreSQL + Excel** - Analyze e-commerce performance across revenue, customers, and products using PostgreSQL and Excel Pivot tables [PostgreSQL + Excel Analysis](./Project-Postgres-Excel)
 *(More projects coming soon!)*
