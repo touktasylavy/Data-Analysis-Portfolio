@@ -39,7 +39,7 @@ Database Creation>> Built SQL schema and imported raw sales data>> Data Querying
 
 Excel Analysis>> Imported query outputs>> Built pivot tables for sales trends, customer demographics, and product performance >> Dashboard Creation
 
-Key Insights
+Key Insights 
 
 Sales Performance
 
