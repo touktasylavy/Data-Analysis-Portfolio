@@ -24,6 +24,6 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 ### PostgreSQL Projects
 - **UrbanMart E-commerce Performance – PostgreSQL + Excel** - Analyze e-commerce performance across revenue, customers, and products using SQL and Excel Pivot Tables [PostgreSQL + Excel Analysis](./Project-Postgres-Excel)
 ### PowerBI Projects
-- **Project Management Dashboard – PowerBI + Excel** - Analyze e-commerce performance across revenue, customers, and products using PostgreSQL and Excel Pivot Tables [PostgreSQL + Excel Analysis](./Project-PowerBI)
+- **Project Management Dashboard – PowerBI** - Report project management for tracking project cost, status, improvement using PowerBI  [Power BI](./Project-PowerBI)
   
 *(More projects coming soon!)*
