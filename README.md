@@ -27,7 +27,14 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 - **Project Management Dashboard – PowerBI** - Report project management for tracking project cost, status, improvement using PowerBI  [Project mgnt](./Project-Management)
 - **Data Professional Survey Breakdown Dashboard – PowerBI** - Report survey breakdown from data profesional regarding working satisfy (Salary, Work Life Balance..)in Data career using PowerBI  [Survey Breakdown](./Survey-Breakdown)
 ### Tableau Projects 
-- **HR Data Analysis Dashboard – Tableau**  
+- **HR Data Analysis Dashboard**  
   An interactive dashboard analyzing employee attrition. It highlights departments with the highest quit rates, as well as gender and age group breakdowns. 
-  👉 [View on Tableau Public](https://public.tableau.com/app/profile/toukta.sylavy/viz/HR_Analytics_Dashboard_Project/HRANALYTICSDASHBOARD)
+  [HR Analytics Dashboard](https://public.tableau.com/app/profile/toukta.sylavy/viz/HR_Analytics_Dashboard_Project/HRANALYTICSDASHBOARD)
+- **AirBnB Pricing Analysis Dashboard**  
+  An interactive dashboard analyzing renting room price across locations, room sizes, and revenue. 
+  [AirBnB Analysis Dashboard](https://public.tableau.com/app/profile/toukta.sylavy/viz/AirBnBFullProject_17073153697130/Dashboard1)
+- **VG Sales Dashboard**  
+  An interactive bar showing VG Genre sales. 
+  [VG Sales Dashboard](https://public.tableau.com/app/profile/toukta.sylavy/viz/VGSalesDashboard_17073021549760/VGSalesDashboard)
+    
 *(More projects coming soon!)*
