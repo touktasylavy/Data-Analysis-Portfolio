@@ -26,5 +26,8 @@ I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, wit
 ### PowerBI Projects
 - **Project Management Dashboard – PowerBI** - Report project management for tracking project cost, status, improvement using PowerBI  [Project mgnt](./Project-Management)
 - **Data Professional Survey Breakdown Dashboard – PowerBI** - Report survey breakdown from data profesional regarding working satisfy (Salary, Work Life Balance..)in Data career using PowerBI  [Survey Breakdown](./Survey-Breakdown)
-  
+### Tableau Projects 
+- **HR Data Analysis Dashboard – Tableau**  
+  An interactive dashboard analyzing employee attrition. It highlights departments with the highest quit rates, as well as gender and age group breakdowns. 
+  👉 [View on Tableau Public](https://public.tableau.com/app/profile/toukta.sylavy/viz/HR_Analytics_Dashboard_Project/HRANALYTICSDASHBOARD)
 *(More projects coming soon!)*
