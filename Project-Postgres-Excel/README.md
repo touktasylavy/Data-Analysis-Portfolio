@@ -3,7 +3,7 @@ UrbanMart E-Commerce Analysis
 Project Overview
 
 This project presents an end-to-end analysis of UrbanMart’s e-commerce performance. The study uses SQL for data processing and Excel dashboards for visualization.
-[- UrbanMart E-commerce Analysis.pdf]()
+[- UrbanMart E-commerce Analysis.pdf](https://github.com/touktasylavy/Data-Analysis-Portfolio/blob/main/Project-Postgres-Excel/UrbanMart%20E-commerce%20Analysis%20Project%20Report.pdf)
 
 The analysis focuses on:
 1. Sales Performance (Revenue Focus) → How much revenue is generated, number of transactions, and trends over time.
