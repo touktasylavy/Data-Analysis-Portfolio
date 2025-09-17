@@ -60,4 +60,5 @@ CSV – Data source format
 
 📸 Dashboard Preview
 
-- ProductSaleDashboard.pdf
+[- ProductSaleDashboard.pdf](https://github.com/touktasylavy/Data-Analysis-Portfolio/blob/main/Project-ProductSales/Product%20Sales%20Dashboard.pdf)
+
