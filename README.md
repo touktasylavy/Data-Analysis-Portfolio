@@ -1,6 +1,6 @@
 # Data-Analysis-Portfolio
 Hi! I’m **Toukta Sylavy**, a Business Informatics graduate passionate about turning data into actionable insights.  
-I aspire to grow as a **Data Analyst, Business Analyst, and Data Engineer**, with interests in **Marketing Research** and **HRIS**.
+I aspire to grow as a **Data Analyst, Business Analyst, Financial Analyst and Data Engineer**, with interests in **Marketing Research** and **HRIS**.
 
 ---
 
